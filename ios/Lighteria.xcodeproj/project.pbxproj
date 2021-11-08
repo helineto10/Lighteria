@@ -11,14 +11,14 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		31D6A576889D47838AE52576 /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2B67515181074B1797A207E1 /* OpenSans-SemiBold.ttf */; };
 		35089EC8108BE53994FFE74F /* libPods-Lighteria-LighteriaTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B9EB40484F8789810F2279 /* libPods-Lighteria-LighteriaTests.a */; };
+		52EE300DC78844C0ABD32908 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 859CE409848442F1BD4F4ECE /* OpenSans-Light.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		FF5D81AD78998354CADF97E1 /* libPods-Lighteria.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 02479DF037DDB5FCE19B9ED9 /* libPods-Lighteria.a */; };
 		82D543C821824F1E8286790A /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ADE40B516579462A8184EFB6 /* OpenSans-Bold.ttf */; };
 		866D915FB2BD4BBABE0166AE /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3AC14D27D6D4952BD97AEA7 /* OpenSans-ExtraBold.ttf */; };
-		52EE300DC78844C0ABD32908 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 859CE409848442F1BD4F4ECE /* OpenSans-Light.ttf */; };
 		D752D96E645F4FFC8F46A6D6 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA3A7183733D45C4B9B2A68F /* OpenSans-Regular.ttf */; };
-		31D6A576889D47838AE52576 /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2B67515181074B1797A207E1 /* OpenSans-SemiBold.ttf */; };
+		FF5D81AD78998354CADF97E1 /* libPods-Lighteria.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 02479DF037DDB5FCE19B9ED9 /* libPods-Lighteria.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,18 +42,18 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Lighteria/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Lighteria/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Lighteria/main.m; sourceTree = "<group>"; };
+		2B67515181074B1797A207E1 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-SemiBold.ttf"; path = "../src/assets/fonts/OpenSans-SemiBold.ttf"; sourceTree = "<group>"; };
 		51D362852475300F6EAFB5EF /* Pods-Lighteria.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lighteria.debug.xcconfig"; path = "Target Support Files/Pods-Lighteria/Pods-Lighteria.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Lighteria/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		859CE409848442F1BD4F4ECE /* OpenSans-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Light.ttf"; path = "../src/assets/fonts/OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		ADE40B516579462A8184EFB6 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Bold.ttf"; path = "../src/assets/fonts/OpenSans-Bold.ttf"; sourceTree = "<group>"; };
 		B0B9EB40484F8789810F2279 /* libPods-Lighteria-LighteriaTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Lighteria-LighteriaTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3AC14D27D6D4952BD97AEA7 /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-ExtraBold.ttf"; path = "../src/assets/fonts/OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
 		C047C19B11A8A90611C9D4F7 /* Pods-Lighteria.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lighteria.release.xcconfig"; path = "Target Support Files/Pods-Lighteria/Pods-Lighteria.release.xcconfig"; sourceTree = "<group>"; };
+		EA3A7183733D45C4B9B2A68F /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Regular.ttf"; path = "../src/assets/fonts/OpenSans-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F4732E2B73CBFA51C3E97E08 /* Pods-Lighteria-LighteriaTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lighteria-LighteriaTests.debug.xcconfig"; path = "Target Support Files/Pods-Lighteria-LighteriaTests/Pods-Lighteria-LighteriaTests.debug.xcconfig"; sourceTree = "<group>"; };
 		FCB373F43BEEBD74F6F784D3 /* Pods-Lighteria-LighteriaTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lighteria-LighteriaTests.release.xcconfig"; path = "Target Support Files/Pods-Lighteria-LighteriaTests/Pods-Lighteria-LighteriaTests.release.xcconfig"; sourceTree = "<group>"; };
-		ADE40B516579462A8184EFB6 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; name = "OpenSans-Bold.ttf"; path = "../src/assets/fonts/OpenSans-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		B3AC14D27D6D4952BD97AEA7 /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; name = "OpenSans-ExtraBold.ttf"; path = "../src/assets/fonts/OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		859CE409848442F1BD4F4ECE /* OpenSans-Light.ttf */ = {isa = PBXFileReference; name = "OpenSans-Light.ttf"; path = "../src/assets/fonts/OpenSans-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		EA3A7183733D45C4B9B2A68F /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; name = "OpenSans-Regular.ttf"; path = "../src/assets/fonts/OpenSans-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		2B67515181074B1797A207E1 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; name = "OpenSans-SemiBold.ttf"; path = "../src/assets/fonts/OpenSans-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +148,19 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		C9ECFB82FBB94F5F894877F5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ADE40B516579462A8184EFB6 /* OpenSans-Bold.ttf */,
+				B3AC14D27D6D4952BD97AEA7 /* OpenSans-ExtraBold.ttf */,
+				859CE409848442F1BD4F4ECE /* OpenSans-Light.ttf */,
+				EA3A7183733D45C4B9B2A68F /* OpenSans-Regular.ttf */,
+				2B67515181074B1797A207E1 /* OpenSans-SemiBold.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		FEC9F38FE5D1D65D5C188BBA /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -159,19 +172,6 @@
 			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
-		};
-		C9ECFB82FBB94F5F894877F5 /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				ADE40B516579462A8184EFB6 /* OpenSans-Bold.ttf */,
-				B3AC14D27D6D4952BD97AEA7 /* OpenSans-ExtraBold.ttf */,
-				859CE409848442F1BD4F4ECE /* OpenSans-Light.ttf */,
-				EA3A7183733D45C4B9B2A68F /* OpenSans-Regular.ttf */,
-				2B67515181074B1797A207E1 /* OpenSans-SemiBold.ttf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
